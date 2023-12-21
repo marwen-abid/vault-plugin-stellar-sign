@@ -1,7 +1,9 @@
 # Vault Plugin: Stellar Sign
 
 ## Overview
-`vault-plugin-stellar-sign` is a Vault plugin designed to manage and sign Stellar blockchain transactions. It provides functionality to create and manage Stellar accounts and to sign transactions using stored account keys.
+`vault-plugin-stellar-sign` is a Vault plugin designed to manage and sign Stellar blockchain transactions. It provides functionality to create and manage Stellar accounts and to sign transactions using stored account keys. 
+
+This plugin is inspired by the work done in https://github.com/kaleido-io/vault-plugin-secrets-ethsign. 
 
 ## Building the Plugin
 To build the plugin and generate the `stellar-sign` executable:
